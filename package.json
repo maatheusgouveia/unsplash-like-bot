@@ -1,0 +1,13 @@
+{
+  "name": "like-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^5.3.1"
+  }
+}
