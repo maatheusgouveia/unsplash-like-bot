@@ -6,7 +6,7 @@ Bot criado utilizando puppeteer para estudos da lib, o objetivo era fazer login 
 
 -   Crie uma cópia do arquivo .env.example chamada `.env`, preencha os valores das variáveis com as suas credenciais do unsplash.
 
--   instale as dependências com o comando `yarn`
+-   Instale as dependências com o comando `yarn`
 
 ## Executando o projeto
 
